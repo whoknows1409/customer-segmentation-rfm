@@ -1,0 +1,2 @@
+line_items,orders,customers,products,countries,total_revenue_gbp,avg_order_value_gbp,first_order,last_order
+391150,18402,4334,3659,37,8737228.0,474.8,2010-12-01 08:26:00,2011-12-09 12:50:00

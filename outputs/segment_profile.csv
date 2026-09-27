@@ -1,0 +1,5 @@
+segment,customers,median_recency_days,median_orders,median_spend_gbp,revenue_gbp,customer_share_pct,revenue_share_pct
+Champions,699,9.0,10.0,3701.44,5628035.0,16.1,64.4
+Cooling Regulars,1159,53.0,4.0,1356.33,2090088.0,26.7,23.9
+Lapsed One-Timers,1598,182.0,1.0,298.71,563478.0,36.9,6.4
+New / Low-Frequency,878,19.0,2.0,439.96,455628.0,20.3,5.2
